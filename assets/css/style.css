@@ -1,0 +1,25 @@
+header, body {
+    font-family: sans-serif;
+    padding: 10px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+#quiz-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 150px 150px 10px 150px;
+}
+
+.button {
+    background-color: darkblue;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size: larger;
+    border-radius: 10px;
+}
