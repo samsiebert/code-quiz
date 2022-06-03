@@ -20,6 +20,20 @@ header {
     color: white;
     height: 50px;
     width: 150px;
-    font-size: larger;
+    font-size: 25px;
     border-radius: 10px;
+}
+
+.option-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    background-color: darkblue;
+    color: white;
+    height: 65px;
+    width: 400px;
+    font-size: 30px;
+    border-radius: 10px;
+    
 }
